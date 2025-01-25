@@ -1,0 +1,23 @@
+/* General Styles */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 62.5%;
+}
+
+body {
+    min-width: 375px;
+    margin: 0 auto;
+    color: #222;
+    font-family: "Roboto", serif;
+    line-height: 1.75;
+}
+
+p {
+    font-size: 1.6rem;
+}
